@@ -6,15 +6,13 @@ This files can make your cmd display the Mandelbrot set.
 
 Use _big.py_ to display the Mandelbrot set on your cmd in details.
 
-```diff
-- Only on windows
-```
+> [!IMPORTANT]
+> This only on windows
 
 Or you could use _tiny.py_ to display a version that fits your terminal's font size.
 
-```diff
-+ On every platform
-```
+> [!NOTE]
+> Works on every platform
 
 ## Demos:
 
